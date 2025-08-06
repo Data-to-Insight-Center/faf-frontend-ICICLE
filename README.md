@@ -1,6 +1,6 @@
 # FafFrontend
 
-This is intended as a helpful front end to a REST API to the US Bureau of Transportation Statistics (BTS) Feight Analysis Framework (FAF) dataset. It has been developed by the Data To Insight Center (D2I) at Indiana University as part of the [NSF ICICLE AI Institute](https://icicle.osu.edu/) and in collaboration with the US Bureau of Transportation Statistics. See [FAF-API-ICICLE](https://github.com/Data-to-Insight-Center/faf-api-ICICLE). This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+This is intended as a helpful front end to a REST API to the US Bureau of Transportation Statistics (BTS) Freight Analysis Framework (FAF) dataset. It has been developed by the Data To Insight Center (D2I) at Indiana University as part of the [NSF ICICLE AI Institute](https://icicle.osu.edu/) and in collaboration with the US Department of Transportation's Bureau of Transportation Statistics. See [FAF-API-ICICLE](https://github.com/Data-to-Insight-Center/faf-api-ICICLE). This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
 The frontend utilizes the following version of the FAF dataset:
 
@@ -94,7 +94,7 @@ FAF Frontend is developed by Indiana University and distributed under the BSD 3-
 
 ## Acknowledgements
 
-Thanks to colleagues at Texas Advanced Computing Center (TACC) who are hosting the FAF Frontend as part of the National Science Foundation under award #2112606, AI Institute for Intelligent CyberInfrastructure with Computational Learning in the Environment (ICICLE). Thanks to the US Bureau of Transportation Statistics Freight Analysis Framework for guidance.
+Thanks to colleagues at Texas Advanced Computing Center (TACC) who are hosting the FAF Frontend and at University of Wisconsin-Madison for organizing this work as part of the National Science Foundation under award #2112606, AI Institute for Intelligent CyberInfrastructure with Computational Learning in the Environment (ICICLE). Thanks to the US Bureau of Transportation Statistics for guidance.
 
 ---
 ## References
